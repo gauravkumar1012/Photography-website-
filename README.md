@@ -1,0 +1,1 @@
+Project Overview: > This is a web-based application developed as a final year BCA project. The primary goal is to bridge the gap between clients and professional photographers through a digital booking interface. It focuses on providing a clean User Interface (UI) and a responsive experience for users to explore photography services.
